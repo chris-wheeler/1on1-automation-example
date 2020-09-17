@@ -12,18 +12,21 @@ Copy the format below and comment in the issue/discussion:
 ```markdown
 ### Key Updates 🔑
 
-1. _Share any major updates to #s, deals, team or key projects/initiatives_
+- What are you working on? What progress have you made over the last week on key deals, projects, or workstreams? 
+- General guidance is 3-5 updates based on your key focus areas for the past week.
 
 ### Insights 👁
 
-1. _Anything interesting you learned in the past week that impacts our business_
+- What did you learn this week? Unique insights into your respective area of business.
+- General guidance is 1-2 insights. Ex. performance of a key campaign and a learning; common thread seen that week with customer meetings. 
 
 ### Risks 🛑
 
-1. _Share any risks to your business (deals, customer sat), team or key projects/initiatives_
+- What risks are you tracking for your respective area of business?
+- General guidance is 1-2 risks. Ex. deal risk, competing priorities, customer health concerns, product concerns.
 
 ### Up Next 🔜
 
-1. _Highlight major areas of focus for the upcoming week_
+What are your key focus areas for the upcoming week?
 
 ```
