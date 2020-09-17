@@ -27,6 +27,6 @@ Copy the format below and comment in the issue/discussion:
 
 ### Up Next 🔜
 
-What are your key focus areas for the upcoming week?
+- What are your key focus areas for the upcoming week?
 
 ```
