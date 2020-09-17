@@ -8,7 +8,7 @@ assignees:
 
 ## Friday Snippets
 
-Will follow the format of:
+Copy the format below and comment below in the issue/discussion:
 ```markdown
 ### Key Updates 🔑
 
