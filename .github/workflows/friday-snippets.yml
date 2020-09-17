@@ -8,8 +8,8 @@
 name: Friday Snippets Issue
 on:
   schedule:
-    # Run each Sunday at 1600 UTC
-    - cron: "4 16 * * 0"
+    # Run each Thursday at 1600 UTC
+    - cron: "15 7 * * 4"
 
 jobs:
 
